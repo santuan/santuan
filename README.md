@@ -1,4 +1,4 @@
-[![Santuan.](https://res.cloudinary.com/drg3lrjge/image/upload/v1603458091/santuan_home.png)](https://www.santuan.com.ar/)
+[![Santuan.](https://res.cloudinary.com/drg3lrjge/image/upload/v1603458091/santuan_home.png)](https://www.santuan.com.ar/proyectos/)
 
 <!--
 **santuan/santuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
