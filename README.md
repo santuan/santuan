@@ -1,4 +1,4 @@
-### Hola! Soy Santiago Rodriguez 👋
+### Hola! Soy Santiago Rodríguez Couto 👋
 
 En: I'm a designer and web developer. 
 
