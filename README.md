@@ -6,9 +6,9 @@ Es: Traduzco artículos que me interesan del Inglés al Español y también cola
 
 
 <a href="https://github.com/santuan">
-  <img height="224" src="https://github-readme-stats.vercel.app/api?username=santuan&show_icons=true&theme=calm" />
+  <img height="224" src="https://github-readme-stats-flame-eta.vercel.app/api?username=santuan&show_icons=true&theme=calm" />
 </a>
 <a href="https://github.com/santuan">
-  <img height="224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santuan&theme=calm" />
+  <img height="224" src="https://github-readme-stats-flame-eta.vercel.app/api/top-langs/?username=santuan&theme=calm" />
 </a>
 
